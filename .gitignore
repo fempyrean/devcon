@@ -59,3 +59,11 @@ typings/
 
 # next.js build output
 .next
+
+frusciante/GPUCache/
+
+*.code
+
+frusciante/Cache/
+
+frusciante/
